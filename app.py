@@ -20,8 +20,7 @@ except:
     pass
 
 st.subheader("Ejemplo de texto que puedes usar")
-st.write('Esta aplicación está diseñada para facilitar la comunicación de personas mudas, convirtiendo el texto escrito en audio de forma rápida y sencilla. El usuario escribe lo que quiere comunicar y la app lo reproduce mediante una voz, permitiendo que pueda expresarse fácilmente con otras personas.
-'
+st.write('Esta aplicación está diseñada para facilitar la comunicación de personas mudas, convirtiendo el texto escrito en audio de forma rápida y sencilla. El usuario escribe lo que quiere comunicar y la app lo reproduce mediante una voz, permitiendo que pueda expresarse fácilmente con otras personas.'
         
         )
            
