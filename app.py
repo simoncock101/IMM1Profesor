@@ -24,8 +24,8 @@ st.write('Esta aplicación está diseñada para facilitar la comunicación de pe
         
         )
            
-st.markdown(f"Quieres escucharlo?, copia el texto")
-text = st.text_area("Ingrese El texto a escuchar.")
+st.markdown(f"Ingresa aqui abajo lo que quieres decir para que se escuche")
+text = st.text_area("Ingresa tu texto aqui.")
 
 tld='com'
 option_lang = st.selectbox(
